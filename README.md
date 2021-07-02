@@ -8,3 +8,5 @@ Super simple lambda function in python that shows sending custom metrics using s
 6. Create a test event with some basic inputs for your test. (test.json)
 7. Test it.
 8. Search Splunk Observability Cloud for your custom metrics using Metric Finder or creating a chart and browsing for your custom metrics.
+
+![Screenshot](https://github.com/jshawatsplunk/simple-lambda-python/blob/main/custom_metrics_in_MetricFinder.png)
